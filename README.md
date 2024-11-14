@@ -4,6 +4,6 @@
 
 This is just for git and github practice.   
 
-### Branchin
+### Branching
 
 This is example of branching
